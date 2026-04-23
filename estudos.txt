@@ -9,3 +9,4 @@ GitHub:
 - pull request
 VS Code:
 - controle de versão
+erro proposital de digitaçao
